@@ -1,0 +1,431 @@
+[07-Dec-2017 19:50:57 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(20): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 19:52:29 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 83
+[07-Dec-2017 19:54:33 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(20): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 19:56:06 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(20): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 20:48:08 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(23): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 20:54:46 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(23): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 20:55:06 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:37
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(23): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[07-Dec-2017 22:32:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:39
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(22): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[07-Dec-2017 22:36:49 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:39
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(22): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:18:23 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:18:23 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:26:18 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:26:18 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:27:43 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:27:43 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:29:56 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:29:56 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:29:56 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:30:28 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:30:28 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:30:28 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:30:47 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:30:47 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:30:47 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:35:51 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:35:51 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:35:51 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:37:26 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:37:26 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:37:26 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:37:26 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:37:28 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:38:05 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:38:05 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:38:05 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:38:05 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:38:07 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:38:12 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:38:12 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:38:12 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:38:34 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:38:34 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:38:34 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:40:03 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:40:03 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:40:03 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:40:03 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:40:06 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:40:49 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:40:49 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:40:49 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:40:49 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:40:50 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:42:10 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:42:10 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:42:10 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 87
+[08-Dec-2017 02:47:10 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:47:10 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:47:10 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:47:10 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:47:12 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:50:53 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:50:53 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:50:55 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:52:36 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:52:36 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:52:36 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:52:36 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:52:36 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:52:57 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:52:57 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:52:57 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:55:00 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:55:00 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:55:00 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:55:00 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:55:00 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:55:19 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:55:19 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:55:19 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:55:19 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:55:19 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:55:27 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:55:27 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:55:27 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:55:27 Europe/Berlin] PHP Notice:  Undefined variable: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 71
+[08-Dec-2017 02:55:27 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:56:03 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 02:56:03 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 02:56:03 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:56:03 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:56:20 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:56:20 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:57:22 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 46
+[08-Dec-2017 02:57:22 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[08-Dec-2017 02:58:00 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:01:18 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:01:27 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:01:27 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:01:27 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:01:38 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:01:38 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:01:38 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:01:46 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:01:46 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:01:46 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:02:23 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:02:23 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:02:23 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:03:11 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:03:11 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:03:11 Europe/Berlin] PHP Warning:  Division by zero in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 88
+[08-Dec-2017 03:10:22 Europe/Berlin] PHP Notice:  Undefined variable: charging_amount in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 03:11:20 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:11:20 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:11:52 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:11:52 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:12:11 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:12:11 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:13:14 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:13:14 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:13:14 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 34
+[08-Dec-2017 03:13:14 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 39
+[08-Dec-2017 03:14:16 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 34
+[08-Dec-2017 03:14:16 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 39
+[08-Dec-2017 03:14:49 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:14:49 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:14:49 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 34
+[08-Dec-2017 03:14:49 Europe/Berlin] PHP Notice:  Undefined variable: content in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 39
+[08-Dec-2017 03:18:20 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:18:20 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 03:21:15 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 03:21:15 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: message in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 40
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: requestId in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: encoding in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 45
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: version in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 46
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 18:40:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php:54
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(23): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 54
+[08-Dec-2017 18:44:38 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 64
+[08-Dec-2017 18:44:48 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 64
+[08-Dec-2017 19:00:11 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:00:11 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:00:11 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 64
+[08-Dec-2017 19:01:03 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 64
+[08-Dec-2017 19:06:39 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 63
+[08-Dec-2017 19:07:52 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:07:52 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:07:52 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 63
+[08-Dec-2017 19:08:10 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:08:10 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:09:27 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:10:26 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:10:26 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:10:26 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:19:48 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:20:34 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:22:37 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:22:37 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:24:42 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[08-Dec-2017 19:24:42 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 48
+[08-Dec-2017 19:24:42 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:25:01 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[08-Dec-2017 19:36:41 Europe/Berlin] PHP Fatal error:  Class 'DirectDebitSender' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 42
+[09-Dec-2017 03:14:50 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 38
+[09-Dec-2017 03:14:50 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 43
+[09-Dec-2017 03:16:18 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 38
+[09-Dec-2017 03:16:18 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 43
+[09-Dec-2017 03:17:14 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 38
+[09-Dec-2017 03:17:14 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 43
+[09-Dec-2017 03:20:25 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 38
+[09-Dec-2017 03:20:25 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 43
+[09-Dec-2017 03:27:14 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 38
+[09-Dec-2017 03:27:14 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 43
+[09-Dec-2017 03:31:01 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[09-Dec-2017 03:31:01 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 44
+[09-Dec-2017 03:31:32 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 39
+[09-Dec-2017 03:31:32 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 44
+[09-Dec-2017 03:32:47 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[09-Dec-2017 03:32:47 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 03:35:25 Europe/Berlin] PHP Notice:  Undefined index: destinationAddresses in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[09-Dec-2017 03:35:25 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 03:35:25 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 73
+[09-Dec-2017 03:40:05 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 03:40:05 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 73
+[09-Dec-2017 03:40:47 Europe/Berlin] PHP Notice:  Undefined index: sourceAddress in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 37
+[09-Dec-2017 03:40:47 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 73
+[09-Dec-2017 03:41:25 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 73
+[09-Dec-2017 03:52:02 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 03:52:02 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 78
+[09-Dec-2017 03:52:48 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 03:52:48 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 78
+[09-Dec-2017 04:08:48 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:08:48 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 83
+[09-Dec-2017 04:10:33 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:10:33 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 83
+[09-Dec-2017 04:13:49 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:13:49 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 04:45:20 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 04:45:54 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:45:54 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:52:25 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:53:27 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 04:56:39 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 05:00:58 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:00:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 80
+[09-Dec-2017 05:00:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 81
+[09-Dec-2017 05:03:33 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:03:33 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 81
+[09-Dec-2017 05:03:33 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 82
+[09-Dec-2017 05:23:50 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:23:50 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 05:23:50 Europe/Berlin] PHP Warning:  fwrite() expects parameter 3 to be long, string given in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\log.php on line 25
+[09-Dec-2017 05:28:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:28:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 05:28:43 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:28:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:28:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 05:31:13 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:31:13 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:31:13 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 05:31:46 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:31:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:31:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 05:32:01 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 05:32:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 05:32:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:19:31 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 08:19:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:19:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:19:49 Europe/Berlin] PHP Notice:  Undefined index: passward in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\SmsReceiver.php on line 42
+[09-Dec-2017 08:19:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:19:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:27:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:27:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:29:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:29:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:29:12 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 08:40:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:40:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:40:21 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 08:42:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:42:03 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:42:03 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 08:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 82
+[09-Dec-2017 08:43:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:43:09 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 08:46:29 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 82
+[09-Dec-2017 08:46:29 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 83
+[09-Dec-2017 08:46:29 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 08:51:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 84
+[09-Dec-2017 08:51:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 85
+[09-Dec-2017 08:51:21 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:05:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:05:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:05:21 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:05:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:05:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:05:54 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:10:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:10:07 Europe/Berlin] PHP Fatal error:  Uncaught exception 'CassException' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php:96
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(77): DirectDebitSender->handleResponse('{"timeStamp":"2...')
+#1 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(62): DirectDebitSender->sendRequest('{"applicationId...')
+#2 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(38): DirectDebitSender->cassMany('25609', 'tel:88018123456...', '50.75')
+#3 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(53): DirectDebitSender->cass('25609', 'tel:88018123456...', '50.75')
+#4 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 96
+[09-Dec-2017 09:10:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:10:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:10:41 Europe/Berlin] PHP Fatal error:  Uncaught exception 'CassException' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php:96
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(77): DirectDebitSender->handleResponse('{"timeStamp":"2...')
+#1 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(62): DirectDebitSender->sendRequest('{"applicationId...')
+#2 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php(38): DirectDebitSender->cassMany('25609', 'tel:88018123456...', '50.75')
+#3 D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php(53): DirectDebitSender->cass('25609', 'tel:88018123456...', '50.75')
+#4 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 96
+[09-Dec-2017 09:11:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:11:12 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:11:12 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:14:29 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:14:29 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:14:29 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:15:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:15:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:15:41 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:17:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:17:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:17:06 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:17:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:17:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:17:21 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:18:33 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:18:33 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:18:33 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:19:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 86
+[09-Dec-2017 09:19:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\lib\sms\Cass.php on line 87
+[09-Dec-2017 09:19:09 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:21:01 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:22:23 Europe/Berlin] PHP Notice:  Undefined variable: responseMsg in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 86
+[09-Dec-2017 09:53:04 Europe/Berlin] PHP Notice:  Undefined offset: 1 in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 09:53:31 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:53:51 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:54:13 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:55:11 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:55:40 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:55:56 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:57:52 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:58:13 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:59:05 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:59:18 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 09:59:30 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:01:35 Europe/Berlin] PHP Notice:  Undefined variable: string in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:01:35 Europe/Berlin] PHP Notice:  Undefined variable: iparr in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:02:22 Europe/Berlin] PHP Notice:  Undefined variable: string in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:02:22 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:02:35 Europe/Berlin] PHP Notice:  Undefined variable: string in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:02:35 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:02:54 Europe/Berlin] PHP Notice:  Undefined variable: string in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:02:54 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:03:36 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:03:57 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:04:07 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:05:05 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 41
+[09-Dec-2017 10:15:09 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:33:51 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:33:59 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 10:36:32 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 40
+[09-Dec-2017 11:50:39 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 11:51:21 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 12:05:50 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 12:50:37 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 12:51:02 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 13:04:04 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\sample-applications\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 20:50:49 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 20:51:00 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\php-app\samples\sms\SampleSmsApp.php on line 36
+[09-Dec-2017 21:00:05 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:00:21 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:06:55 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:06:56 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:06:56 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:08:20 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:08:21 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:08:21 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:10:36 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:10:36 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:10:37 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:11:39 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:11:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:11:40 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:12:24 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:12:24 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:12:24 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:13:07 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:13:07 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:13:07 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:13:38 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:13:39 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\bdapps\lib\sms\Cass.php on line 73
+[09-Dec-2017 21:13:39 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[09-Dec-2017 21:15:21 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 36
+[09-Dec-2017 21:16:44 Europe/Berlin] PHP Notice:  Undefined variable: parts in C:\xampp\htdocs\bdapps\SampleSmsApp.php on line 35
+[22-Dec-2017 18:48:00 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 35
+[22-Dec-2017 18:49:22 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 35
+[22-Dec-2017 18:49:41 Europe/Berlin] PHP Notice:  Undefined variable: parts in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 35
+[24-Dec-2017 08:34:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\Cass.php on line 74
+[24-Dec-2017 08:34:55 Europe/Berlin] ERROR: 500 | Server URL is invalid
+[25-Dec-2017 09:31:29 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:31:53 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:32:15 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:35:27 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:36:23 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:36:29 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 09:36:35 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
