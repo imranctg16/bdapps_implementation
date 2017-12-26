@@ -429,3 +429,157 @@ Stack trace:
 [25-Dec-2017 09:36:23 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
 [25-Dec-2017 09:36:29 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
 [25-Dec-2017 09:36:35 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 89
+[25-Dec-2017 11:23:59 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 97
+[25-Dec-2017 11:59:56 Europe/Berlin] PHP Fatal error:  Class 'Send_to_sn' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 74
+[25-Dec-2017 12:01:21 Europe/Berlin] PHP Fatal error:  Class 'Send_to_sn' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 74
+[25-Dec-2017 12:05:09 Europe/Berlin] PHP Fatal error:  Class 'Send_to_sn' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 74
+[25-Dec-2017 12:06:02 Europe/Berlin] PHP Fatal error:  Class 'Send_to_sn' not found in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 74
+[25-Dec-2017 12:07:25 Europe/Berlin] PHP Notice:  Undefined variable: address in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php on line 101
+[25-Dec-2017 12:24:23 Europe/Berlin] PHP Notice:  Use of undefined constant res - assumed 'res' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\Send_to_Sn.php on line 35
+[25-Dec-2017 12:29:47 Europe/Berlin] PHP Notice:  Use of undefined constant res - assumed 'res' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\Send_to_Sn.php on line 36
+[25-Dec-2017 13:21:03 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:18 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:18 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:19 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:20 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:20 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:20 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:21 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:21 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:22 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:23 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:23 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:24 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:25 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:25 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:26 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:21:27 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[25-Dec-2017 13:31:09 Europe/Berlin] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php:40
+Stack trace:
+#0 D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\SampleSmsApp.php(32): SmsReceiver->__construct()
+#1 {main}
+  thrown in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 40
+[26-Dec-2017 12:41:27 Europe/Berlin] PHP Notice:  Array to string conversion in D:\CODEWORLD\PHP\Project\TEST_PROJECT\bdapps\lib\sms\SmsReceiver.php on line 32

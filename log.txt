@@ -1,24 +1,15 @@
-[ Sending param for Debit = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":["tel","8801866742387"],"currency":"BDT","paymentInstrumentName":"Mobile Account"}]
-[ Received Response for Debit = {"timeStamp":"2017-12-25T14:36:23+0600","externalTrxId":"[tel, 8801866742387]","statusDetail":"Success","internalTrxId":"712","statusCode":"S1000"}]
+Recieved Parameters From Bdapps :
+         sourceAddress=tel:8801866742387
+         requestId=1514304407379
+         encoding=0
+         applicationId=APP_000001
+         message=Test Message
+         version=1.0
+[ Sending param for Debit = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":"1514304407379","paymentInstrumentName":"Mobile Account"}]
+[ Received Response for Debit = {"timeStamp":"2017-12-26T22:06:47+0600","externalTrxId":"1514304407379","statusDetail":"Success","internalTrxId":"167","statusCode":"S1000"}]
 [returned status code from debit is =  S1000]
 [recieved  status code from debit is    = S1000]
-[destinationAddresse=tel:8801866742387, address=, pass=0705afb938daad5a10f03af24c0bc71c, applicationId=APP_004334, encoding=0, version=1.0 ]
-[ Sending param for Sms = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
-[ Recieved  param for Sms =  {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Sending param for Sms = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"0","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
+[ Recieved  param for Sms =  {"destinationResponses":[{"timeStamp":"20171226220647","address":"tel:8801866742387","requestId":"1514304407525","statusDetail":"Success","statusCode":"S1000"}],"requestId":"1514304407526","statusDetail":"Success","version":"0.1","statusCode":"S1000"} ]
 [ ============================##########========================]
-[ Sending param for Debit = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":["tel","8801866742387"],"currency":"BDT","paymentInstrumentName":"Mobile Account"}]
-[ Received Response for Debit = {"timeStamp":"2017-12-25T14:36:29+0600","externalTrxId":"[tel, 8801866742387]","statusDetail":"Success","internalTrxId":"136","statusCode":"S1000"}]
-[returned status code from debit is =  S1000]
-[recieved  status code from debit is    = S1000]
-[destinationAddresse=tel:8801866742387, address=, pass=0705afb938daad5a10f03af24c0bc71c, applicationId=APP_004334, encoding=0, version=1.0 ]
-[ Sending param for Sms = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
-[ Recieved  param for Sms =  {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
-[ ============================##########========================]
-[ Sending param for Debit = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","subscriberId":"tel:8801866742387","amount":"1.25","externalTrxId":["tel","8801866742387"],"currency":"BDT","paymentInstrumentName":"Mobile Account"}]
-[ Received Response for Debit = {"timeStamp":"2017-12-25T14:36:34+0600","externalTrxId":"[tel, 8801866742387]","statusDetail":"Success","internalTrxId":"378","statusCode":"S1000"}]
-[returned status code from debit is =  S1000]
-[recieved  status code from debit is    = S1000]
-[destinationAddresse=tel:8801866742387, address=, pass=0705afb938daad5a10f03af24c0bc71c, applicationId=APP_004334, encoding=0, version=1.0 ]
-[ Sending param for Sms = {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
-[ Recieved  param for Sms =  {"applicationId":"APP_004334","password":"0705afb938daad5a10f03af24c0bc71c","destinationAddresses":["tel:8801866742387"],"message":"Taka 1.25 is deducted from your account.","deliveryStatusRequest":"1","chargingAmount":"1.25","encoding":"0","version":"1.0"}]
 [ ============================##########========================]

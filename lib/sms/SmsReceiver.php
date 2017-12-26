@@ -28,7 +28,11 @@ class SmsReceiver {
 		check the validity of the response
 	**/
 	public function __construct() {
-		$array                      = json_decode( file_get_contents( 'php://input' ), true );
+		$array = json_decode( file_get_contents( 'php://input' ), true );
+		logFile("Recieved Parameters From Bdapps :");
+		foreach ( $array as $k => $v ) {
+			logFile("         ".$k . "=". $v);
+		}
 		$this->destinationAddresses = $array['sourceAddress'];
 		$this->message              = $array['message'];
 		//$this->applicationId = $array['applicationId'];

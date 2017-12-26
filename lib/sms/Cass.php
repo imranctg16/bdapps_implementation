@@ -1,6 +1,6 @@
 <?php
 
-include_once '../../samples/log.php';
+include_once '../../log.php';
 
 class DirectDebitSender
 {
@@ -41,7 +41,6 @@ class DirectDebitSender
             "subscriberId" => $subscriberId,
             "amount" => $amount,
             "externalTrxId" => $externalTrxId,
-            "currency" => "BDT",
             "paymentInstrumentName" => "Mobile Account"
         );
         $jsonObjectFields = json_encode($arrayField);
@@ -59,6 +58,18 @@ class DirectDebitSender
         curl_setopt($ch, CURLOPT_POSTFIELDS, $jsonStream);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         $res = curl_exec($ch);
+	    if (curl_errno($ch)) {
+		    logFile("Error (Debit curl) : ".curl_error($ch));
+	    } else {
+		    // HTTP status code of the request
+		    $resultStatus = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+		    if ($resultStatus == 200) {
+			    // everything went better than expected
+			    status_log(" Post was Successfull ");
+		    } else {
+			    status_log("Error Status : " . $resultStatus);
+		    }
+	    }
         curl_close($ch);
         logFile("[ Received Response for Debit = $res]");
         return $this->handleResponse($res);
@@ -70,6 +81,11 @@ class DirectDebitSender
     {
 
        // logFile("[response handling class   =$jsonResponse]");
+	    if(empty($jsonResponse))
+	    {
+	    	logFile("No Response is Found in debit \n");
+	    	return "0";
+	    }
         $obj = json_decode($jsonResponse);
         foreach ($obj as $index => $user) {
             // insert into database here

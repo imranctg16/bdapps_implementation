@@ -80,7 +80,7 @@ class SmsSender
         //here the request is sent to the url
         $res = curl_exec($ch);
         curl_close($ch);
-	    logFile("[ Recieved  param for Sms =  $jsonObjectFields]");
+	    logFile("[ Recieved  param for Sms =  $res ]");
         return $this->handleResponse($res);
     }
 

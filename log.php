@@ -20,9 +20,8 @@ function logFile($rtn)
 
 function status_log($rtn)
 {
-
-    $myfile = fopen("status_log.txt", "w") or die("Unable to open file!");
-    $txt = $rtn . "\n" . "ran ";
+    $myfile = fopen("status_log.txt", "a");
+    $txt = $rtn . "\n" ;
     fwrite($myfile, $txt);
     fclose($myfile);
 }
